@@ -1,9 +1,9 @@
 # spark-sql-big-data
-NAMA : Muhammad Reza Khatami
+NAMA : Yulia Eka Ardhani
 
 KELAS : TI-3C
 
-NIM : 2041720076
+NIM : 2041720064
 
 
 PERTANYAAN
